@@ -1,0 +1,12 @@
+SECURITY ASSESSMENT QUESTIONNAIRE
+
+1. What encryption standards do you use for data at rest?
+2. How is data encrypted during transmission?
+3. What authentication methods do you support?
+4. Do you provide role-based access control (RBAC)?
+5. How are audit logs maintained and protected?
+6. What is your data retention policy?
+7. How do you handle incident response?
+8. What compliance certifications do you hold?
+9. How often do you perform security audits?
+10. What is your backup and disaster recovery process?

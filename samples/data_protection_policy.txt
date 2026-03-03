@@ -1,0 +1,25 @@
+DATA PROTECTION AND PRIVACY POLICY
+
+Data Collection Principles:
+We collect only data necessary for service delivery. Data minimization principles are enforced across all systems. Personal data is collected lawfully with explicit consent where required. Automated decision-making is avoided, and human oversight is maintained.
+
+Data Encryption:
+All customer data is encrypted at rest using AES-256 encryption. Data in transit is protected with TLS 1.3. Encryption keys are managed through our Hardware Security Module (HSM) infrastructure. Key rotation occurs quarterly.
+
+Access Control:
+Role-based access control (RBAC) is implemented at organizational and project levels. The principle of least privilege is enforced. Multi-factor authentication is required for all administrative access. Access requests require manager approval.
+
+Data Retention:
+Active customer data is retained per contractual agreement. Default retention period is 90 days for active data. Inactive accounts have data retained for 30 days after closure. Audit logs are retained for 365 days.
+
+Data Deletion:
+Upon customer request or contract termination, data is securely deleted within 30 days. Deletion follows NIST SP 800-88 guidelines. A certificate of destruction is provided upon request. Backup data is purged within 90 days of deletion.
+
+Data Backup:
+Automated daily backups are performed with redundancy across three geographic regions. Backups are encrypted with separate encryption keys. Recovery Point Objective (RPO) is 1 hour. Recovery Time Objective (RTO) is 4 hours.
+
+Cross-Border Data Transfer:
+Data transfers between jurisdictions comply with applicable laws. EU data is processed in compliant data centers. Standard Contractual Clauses (SCCs) are in place for international transfers. Privacy Shield certification is maintained for US transfers.
+
+Third-Party Data Sharing:
+We do not sell customer data. Data is shared only with customer-authorized parties. All subprocessors undergo security assessment. Data Processing Agreements (DPA) are required for all subprocessors.

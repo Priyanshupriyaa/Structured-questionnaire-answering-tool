@@ -1,0 +1,26 @@
+COMPLIANCE CERTIFICATIONS AND STANDARDS
+
+SOC 2 Type II:
+SecureSync maintains annual SOC 2 Type II certification covering security, availability, and confidentiality principles. The audit is conducted by an independent third-party CPA firm. Annual examination includes testing of controls related to access controls, change management, incident response, and data encryption. Results are available to customers upon request under NDA.
+
+ISO 27001:2022:
+Our Information Security Management System (ISMS) is certified to ISO 27001:2022 standards. This certification demonstrates our commitment to international information security best practices. The scope covers all customer data processing, system infrastructure, and support services. Regular surveillance audits are conducted bi-annually.
+
+HIPAA Compliance:
+SecureSync is fully HIPAA compliant and executes Business Associate Agreements (BAA) with all healthcare customers. We implement all required administrative, physical, and technical safeguards for Protected Health Information (PHI). Our platform includes audit logging, access controls, encryption, and secure data transmission as required by HIPAA Security Rule.
+
+GDPR Compliance:
+We comply with General Data Protection Regulation requirements for EU customers. This includes data processing agreements, right to erasure implementation, data portability features, and breach notification within 72 hours. We have appointed a Data Protection Officer and maintain records of processing activities.
+
+FedRAMP Moderate:
+SecureSync is in process for FedRAMP Moderate authorization. This will enable us to serve US federal agencies and contractors. Our infrastructure is hosted on FedRAMP-authorized cloud providers (AWS GovCloud).
+
+PCI DSS Level 1:
+For customers handling payment data, we maintain PCI DSS Level 1 compliance. We are certified as a PCI DSS compliant service provider. Tokenization and secure payment processing integration available.
+
+Cloud Security Alliance (CSA) STAR:
+We participate in CSA STAR self-assessment and have achieved Gold rating in CSA STAR Certification. This includes continuous monitoring and transparency in our security practices.
+
+Privacy Shield Framework:
+SecureSync participates in the EU-US and Swiss-US Privacy Shield Frameworks. We commit to complying with the privacy principles outlined in the frameworks.</parameter>
+</create_file>
